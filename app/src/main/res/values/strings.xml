@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hola</string>
+    <string name="app_name">mi primera aplicación</string>
+    <string name="message">esta es mi primera aplicacion</string>
+
 </resources>
